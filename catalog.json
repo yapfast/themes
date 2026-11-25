@@ -78,6 +78,19 @@
       "preview": "https://raw.githubusercontent.com/yapfast/themes/b4bcbfb1b0d73ff59efd99cc58bf0c046d98a9d8/themes/eyeliner/previews/chat.webp",
       "light": false,
       "dark": true
+    },
+    {
+      "id": "io.github.tacticaldeux.system24",
+      "name": "System24",
+      "author": "MisterPotato19",
+      "repo": "https://github.com/TacticalDeux/system24",
+      "path": "",
+      "commit": "d8a26123106458949c4d347a28d50b684374ebe0",
+      "sha256": "afee2b42eef2d29c344be395d8e5ad6b44b8a3aa5085244f71be92e793f2cff1",
+      "description": "system24: square-panel TUI theme with labels and DM Mono.",
+      "preview": "https://raw.githubusercontent.com/TacticalDeux/system24/d8a26123106458949c4d347a28d50b684374ebe0/previews/chat.webp",
+      "light": true,
+      "dark": true
     }
   ]
 }
